@@ -1,0 +1,6 @@
+{
+    "asteriskHost":"http://localhost:8088",
+    "asteriskUserName":"asterisk",
+    "asteriskPass":"asterisk",     
+    "soundsDirectory":"sound:/tmp/sounds/"
+}
